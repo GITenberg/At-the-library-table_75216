@@ -1,0 +1,39 @@
+_repo: At-the-library-table_75216
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joline, Adrian H. (Adrian Hoffman)
+    alias: Joline, Adrian Hoffman
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '57886'
+    url: http://www.gutenberg.org/2009/agents/57886
+description: ''
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75216'
+  lccn: 09032660
+language: en
+pgterms:marc904: https://archive.org/details/atlibrarytable00joli_0/page/n9/mode/2up
+pgterms:marc905: 20220104180836joline
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bRichard D. Badger, $c1909, pubdate 1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading'
+- !lcsh 'Ainsworth, William Harrison, 1805-1882'
+- !lcsh 'James, G. P. R. (George Payne Rainsford), 1801?-1860'
+- !lcc 'PR'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: At the library table -- The deliberations of a Dofob -- In a library
+  corner -- Of the old fashion -- William Harrison Ainsworth -- George P. R. James.
+title: At the library table
+url: http://www.gutenberg.org/ebooks/75216
