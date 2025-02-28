@@ -1,5 +1,8 @@
 _repo: At-the-library-table_75216
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75216-h/images/cover.jpg
 creator:
   author:
     agent_name: Joline, Adrian H. (Adrian Hoffman)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57886'
     url: http://www.gutenberg.org/2009/agents/57886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75216#At-the-library-table
 gutenberg_issued: '2025-01-26'
 gutenberg_type: Text
 identifiers:
